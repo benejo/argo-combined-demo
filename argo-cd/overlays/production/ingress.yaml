@@ -18,5 +18,5 @@ spec:
            name: argocd-server
            port:
              number: 80
-    host: argo-cd.104.196.111.81.xip.io
+    host: argo-cd.a07f16ed7522d499fa6d4c536b4491e2-1092236953.us-east-1.elb.amazonaws.com
 
